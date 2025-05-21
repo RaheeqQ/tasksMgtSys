@@ -49,3 +49,6 @@ The Task Management System is a single-page web application (SPA) designed to he
 - **Mongoose**: MongoDB object modeling.
 - **React Router**: For navigation.
 - **Chart.js**: For data visualization in the dashboard.
+  
+### For more details 
+https://drive.google.com/file/d/13y8SNjcrFXfng7rXlar8-aSDmzLBL2iY/view?usp=sharing
